@@ -8,7 +8,6 @@ public class DConstant {
     public static final String DATA_ROOT_DIR = "f:" + File.separator + "暂时存放" + File.separator +
             "com.wzy" + File.separator + "wzy-ad-spring-cloud" + File.separator +
             "mysql_data" + File.separator;
-//    public static final String DATA_ROOT_DIR = "/Users/zhanghu05/imooc/mysql_data/";
 
     // 各个表数据的存储文件名
     public static final String AD_PLAN = "ad_plan.data";
